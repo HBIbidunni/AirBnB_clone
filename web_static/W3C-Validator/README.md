@@ -1,7 +1,7 @@
 ### W3C validator
 -----------
 
-[![W3C validator Build Workflow](https://github.com/HBIbidunni/W3C validator/actions/workflows/build.yml/badge.svg)](https://github.com/HBIbidunni/W3C validator/actions/workflows/build.yml) 
+[![AirBnB_clone Build Workflow](https://github.com/HBIbidunni/AirBnB_clone/actions/workflows/build.yml/badge.svg)](https://github.com/HBIbidunni/AirBnB_clone/actions/workflows/build.yml) 
 
 * This is for the __HTML__ and __CSS__ files.
 
