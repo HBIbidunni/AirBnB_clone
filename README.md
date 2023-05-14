@@ -1,4 +1,4 @@
-# Welcome to our AirBnB_clone - The console repository!
+# Welcgme to our AirBnB_clone - The console repository!
 ---------
 ![AirBnB Gif Logo](https://s3.eu-central-1.amazonaws.com/centaur-wp/marketingweek/prod/content/uploads/2014/11/Brand_Case_Study3.gif?auto=compress,format&q=60&w=1002&h=563)
 
@@ -14,7 +14,7 @@
 * [0x03 Installation](#0x03-Installation)
 * [0x04 Testing](#0x04-Testing)
 * [0x05 Usage](#0x05-Usage)
-* [0x06 Authors](#0x06-Authors)
+* [0x06 Authors :black_nib:](#0x06-Authors:black_nib:)
 
 ## 0x01 Introduction
 
