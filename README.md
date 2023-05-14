@@ -4,10 +4,10 @@
 
 
 ### Project Description :office:
-> Welcome to our __AirBnB_clone console__ team project. 
-> This is the first stage of the team project and it is a command-line interface that allows the management of objects in the __AirBnB clone__. 
-> Here, we worked on the backend of the project whiles interfacing it with a console application with the help of the __cmd module__ in __Python__.
-> We would walk you through our steps on how we solved this project. These are our __Table of Contents__:
+>  * Welcome to our __AirBnB_clone console__ team project. 
+>  * This is the first stage of the team project and it is a command-line interface that allows the management of objects in the __AirBnB clone__. 
+>  * Here, we worked on the backend of the project whiles interfacing it with a console application with the help of the __cmd module__ in __Python__.
+>  * We would walk you through our steps on how we solved this project. These are our __Table of Contents__:
 
 * [0x01 Introduction](#0x01-Introduction)
 * [0x02 Environment](#0x02-Environment)
