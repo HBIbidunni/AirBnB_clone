@@ -14,7 +14,7 @@
 * [0x03 Installation](#0x03-Installation)
 * [0x04 Testing](#0x04-Testing)
 * [0x05 Usage](#0x05-Usage)
-* [0x06 Authors :black_nib:](#0x06-Authors:black_nib:)
+* [0x06 Authors](#0x06-Authors)
 
 ## 0x01 Introduction
 
@@ -264,7 +264,7 @@ The recognizable commands by the interpreter are the following:
 | **Usage** | **<class name\>.count()** |
 
 
-## 0x06 Authors :black_nib:
+## 0x06 Authors
 <details>
     <summary>Oyindamola Ibis</summary>
     <ul>
