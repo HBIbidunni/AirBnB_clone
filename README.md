@@ -264,7 +264,7 @@ The recognizable commands by the interpreter are the following:
 | **Usage** | **<class name\>.count()** |
 
 
-## Authors :black_nib:
+## 0x06 Authors :black_nib:
 <details>
     <summary>Oyindamola Ibis</summary>
     <ul>
